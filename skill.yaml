@@ -1,0 +1,15 @@
+name: openclaw-search
+description: 搜索 OpenClaw 相关资源（文档、用例、仓库）
+trigger:
+  - openclaw
+  - 搜索 openclaw
+metadata:
+  openclaw:
+    user-invocable: true
+    description: "搜索 OpenClaw 相关资源"
+commands:
+  search:
+    trigger: openclaw
+    usage: openclaw <关键词>
+    description: 搜索 OpenClaw 资源
+    example: openclaw 用例
