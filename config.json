@@ -1,0 +1,17 @@
+{
+  "repos": {
+    "openclaw": "openclaw/openclaw",
+    "awesome": "hesamsheikh/awesome-openclaw-usecases",
+    "awesome-skills": "VoltAgent/awesome-openclaw-skills"
+  },
+  "keywords": {
+    "用例": "awesome",
+    "use case": "awesome",
+    "awesome": "awesome",
+    "技能": "awesome-skills",
+    "skill": "awesome-skills",
+    "市场": "awesome-skills",
+    "文档": "openclaw",
+    "doc": "openclaw"
+  }
+}
